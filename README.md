@@ -7,6 +7,9 @@
 
 2.安装好VS2015,打开TXClient.sln,即可本地调试及发布。
 
+#下载界面
+![image](https://github.com/iuoon/TestCurl/blob/master/Resources/res/testcurl.png)
+
 #更多内容请关注
 
 开发博客：http://blog.csdn.net/iuoon
